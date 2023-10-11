@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "c40b8e648160b8f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fc296ad5058a980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee851a10162f8418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript Notes/snippets/remove first element from string.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a997c6de3fadc749",
+    "type": "split",
+    "children": [
+      {
+        "id": "c48d984486729405",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "504d81db2c0cad50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "406a8099f82b8589",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c8912e2026dd59a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11425600e9a2f094",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ba1f573edfc15ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "286fe35d827b5bba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript Notes/snippets/remove first element from string.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "087d16de0be72aea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Javascript Notes/snippets/remove first element from string.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d7a33ffdd09d806",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06fd327d4197a1c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript Notes/snippets/remove first element from string.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ee851a10162f8418",
+  "lastOpenFiles": [
+    "Javascript Notes/snippets/Wrapping a value around if out of bounds.md",
+    "Javascript Notes/snippets/Regular expressions.md",
+    "Javascript Notes/snippets/Spread Syntax.md",
+    "Javascript Notes/snippets/Ternary operator example.md",
+    "Javascript Notes/snippets/Unknown amount function arguments(Rest Parameters).md",
+    "Javascript Notes/snippets/Useful Math snippets.md",
+    "Javascript Notes/snippets/Check for property.md",
+    "1.Introduction Week/3.Day Three/How to break down a problem.md",
+    "1.Introduction Week/3.Day Three/Documentation reading.md",
+    "1.Introduction Week/2.Day Two/Exports and require.md"
+  ]
+}
