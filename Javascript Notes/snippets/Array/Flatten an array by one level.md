@@ -1,5 +1,5 @@
 ```js
 function flattenArray(array){
-return array.flat();
+	return array.flat();
 }
 ```
