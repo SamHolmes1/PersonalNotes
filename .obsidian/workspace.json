@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Introduction Week/4.Day Four/Regex.md",
+                "file": "Javascript Notes/snippets/Array/Check if array is ascending or descending.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Introduction Week/4.Day Four/Regex.md",
+                "file": "Javascript Notes/snippets/Array/Check if array is ascending or descending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Introduction Week/4.Day Four/Regex.md",
+                "file": "Javascript Notes/snippets/Array/Check if array is ascending or descending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Introduction Week/4.Day Four/Regex.md"
+                "file": "Javascript Notes/snippets/Array/Check if array is ascending or descending.md"
               }
             }
           }
@@ -148,10 +148,27 @@
   },
   "active": "ee851a10162f8418",
   "lastOpenFiles": [
-    "Javascript Notes/snippets/String/Reverse a string.md",
+    "Javascript Notes/snippets/Objects/Check for property.md",
+    "Javascript Notes/snippets/Array/Check if array is ascending or descending.md",
+    "2.Weeks 2-4/Week 2/1.Day One/Testing Seminar.md",
+    "2.Weeks 2-4/Week 2/1.Day One/Pairing and Testin.md",
+    "1.Introduction Week/5.Day Five/Intro to HTML.md",
+    "1.Introduction Week/5.Day Five/Intro to CSS.md",
+    "1.Introduction Week/1.Day One/Lecture - Intro to Git.md",
+    "1.Introduction Week/1.Day One/Introduction lecture.md",
+    "1.Introduction Week/1.Day One/GitHub.md",
+    "1.Introduction Week/1.Day One/Command Line and Git tasks.md",
+    "1.Introduction Week/2.Day Two/Functions and execution content.md",
+    "1.Introduction Week/2.Day Two/Exports and require.md",
+    "1.Introduction Week/3.Day Three/Documentation reading.md",
+    "1.Introduction Week/3.Day Three/How to break down a problem.md",
     "1.Introduction Week/4.Day Four/Regex.md",
     "1.Introduction Week/4.Day Four/Errors and debugging.md",
+    "Javascript Notes/snippets/Array/Find last n elements in array.md",
     "Javascript Notes/snippets/Array/Create a unique set of items.md",
+    "Javascript Notes/snippets/Array/Copying from an array.md",
+    "Javascript Notes/snippets/String/Reverse a string.md",
+    "Javascript Notes/snippets/String/remove first element from string.md",
     "Javascript Notes/snippets/String",
     "Javascript Notes/snippets/Math/Round to Two decimal places.md",
     "Javascript Notes/snippets/Functions",
@@ -159,22 +176,8 @@
     "Javascript Notes/snippets/Array",
     "Javascript Notes/snippets/Untitled.md",
     "Javascript Notes/snippets/Math",
-    "Javascript Notes/snippets/String/remove first element from string.md",
     "Javascript Notes/snippets/Ternary operator example.md",
     "Javascript Notes/snippets/Spread Syntax.md",
-    "Javascript Notes/snippets/Regular expressions.md",
-    "Javascript Notes/snippets/For ... in vs For ... of.md",
-    "Javascript Notes/snippets/Array/Flatten an array by one level.md",
-    "Javascript Notes/snippets/Math/Find a prime number.md",
-    "Javascript Notes/snippets/Functions/Arrow Functions vs Function Expressions.md",
-    "Javascript Notes/snippets/Array/Copying from an array.md",
-    "Javascript Notes/snippets/Objects/Copying from an object.md",
-    "Javascript Notes/snippets/Objects/Check for property.md",
-    "1.Introduction Week/3.Day Three/Documentation reading.md",
-    "1.Introduction Week/3.Day Three/How to break down a problem.md",
-    "Javascript Notes/snippets/Math/Wrapping a value around if out of bounds.md",
-    "Javascript Notes/snippets/Functions/Unknown amount function arguments(Rest Parameters).md",
-    "Javascript Notes/snippets/Math/Useful Math snippets.md",
-    "1.Introduction Week/2.Day Two/Exports and require.md"
+    "Javascript Notes/snippets/Regular expressions.md"
   ]
 }

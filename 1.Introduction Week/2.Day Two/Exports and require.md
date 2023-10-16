@@ -1,4 +1,4 @@
-# Objectives
+# Learning Objectives
 - Know what a module is 
 - know how to share data across JS files using module .exports
 

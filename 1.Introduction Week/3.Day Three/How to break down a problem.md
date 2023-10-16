@@ -1,3 +1,4 @@
+# Learning Objectives
 - Be able to declare and invoke JavaScript functions
 - understand the difference between arguments and parameters
 - Understand how to break down a problem into a series of steps using psuedocode

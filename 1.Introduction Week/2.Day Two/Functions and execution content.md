@@ -1,4 +1,4 @@
-learning objectives
+# Learning Objectives
 - Understand the benefits of using functions
 - know how to invoke functions in JS
 - know how to declare functions in JS
