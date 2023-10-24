@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Weeks 2-4/Week 2/5.Day Five/Closure.md",
+                "file": "2.Weeks 2-4/Week 3/2.Day Two/OOP and Factory functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Weeks 2-4/Week 2/5.Day Five/Closure.md",
+                "file": "2.Weeks 2-4/Week 3/2.Day Two/OOP and Factory functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Weeks 2-4/Week 2/5.Day Five/Closure.md",
+                "file": "2.Weeks 2-4/Week 3/2.Day Two/OOP and Factory functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Weeks 2-4/Week 2/5.Day Five/Closure.md"
+                "file": "2.Weeks 2-4/Week 3/2.Day Two/OOP and Factory functions.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "ee851a10162f8418",
   "lastOpenFiles": [
-    "2.Weeks 2-4/Week 2/4.Day Four/Mock functions(extra).md",
+    "2.Weeks 2-4/Week 3/2.Day Two/OOP seminar.md",
+    "2.Weeks 2-4/Week 3/2.Day Two/OOP and Factory functions.md",
+    "Javascript Notes/snippets/For ... in vs For ... of.md",
+    "Javascript Notes/snippets/Objects/Shorthand for in.md",
+    "2.Weeks 2-4/Week 3/1.Day One/Recursion.md",
+    "Javascript Notes/snippets/String/remove first element from string.md",
     "2.Weeks 2-4/Week 2/5.Day Five/Closure.md",
+    "2.Weeks 2-4/Week 2/4.Day Four/Mock functions(extra).md",
     "2.Weeks 2-4/Week 2/4.Day Four/Testing higher order functions.md",
     "Javascript Notes/snippets/Math/Wrapping a value around if out of bounds.md",
     "Javascript Notes/snippets/Math/Useful Math snippets.md",
@@ -168,12 +174,6 @@
     "Javascript Notes/snippets/String/Reverse a string.md",
     "Javascript Notes/snippets/Array/Flatten an array by one level.md",
     "Javascript Notes/snippets/Array/Check if array is ascending or descending.md",
-    "Javascript Notes/snippets/Functions/Default parameters.md",
-    "Javascript Notes/snippets/Functions/Arrow Functions vs Function Expressions.md",
-    "Javascript Notes/snippets/Math/Find a prime number.md",
-    "Javascript Notes/snippets/Math/Round to Two decimal places.md",
-    "Javascript Notes/snippets/Objects/Copying from an object.md",
-    "Javascript Notes/snippets/Array/Create a unique set of items.md",
     "Javascript Notes/snippets/String",
     "Javascript Notes/snippets/Functions",
     "Javascript Notes/snippets/Objects",
