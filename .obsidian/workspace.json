@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Weeks 2-4/Week 3/2.Day Two/OOP and Factory functions.md",
+                "file": "2.Weeks 2-4/Week 3/5.Day Five/Getters and Setters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Weeks 2-4/Week 3/2.Day Two/OOP and Factory functions.md",
+                "file": "2.Weeks 2-4/Week 3/5.Day Five/Getters and Setters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Weeks 2-4/Week 3/2.Day Two/OOP and Factory functions.md",
+                "file": "2.Weeks 2-4/Week 3/5.Day Five/Getters and Setters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Weeks 2-4/Week 3/2.Day Two/OOP and Factory functions.md"
+                "file": "2.Weeks 2-4/Week 3/5.Day Five/Getters and Setters.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "ee851a10162f8418",
   "lastOpenFiles": [
+    "2.Weeks 2-4/Week 3/4.Day Four/Afternoon seminar.md",
+    "2.Weeks 2-4/Week 3/5.Day Five/Getters and Setters.md",
+    "2.Weeks 2-4/Week 3/4.Day Four/Classes. constructors and polymorphism.md",
+    "Javascript Notes/snippets/Data Structures/Binary Search Tree.md",
+    "2.Weeks 2-4/Week 3/3.Day Three/OOP Classes.md",
+    "Javascript Notes/snippets/Data Structures",
     "2.Weeks 2-4/Week 3/2.Day Two/OOP seminar.md",
     "2.Weeks 2-4/Week 3/2.Day Two/OOP and Factory functions.md",
     "Javascript Notes/snippets/For ... in vs For ... of.md",
@@ -169,11 +175,6 @@
     "2.Weeks 2-4/Week 2/1.Day One/Testing Seminar.md",
     "2.Weeks 2-4/Week 2/2.Day Two/Scope.md",
     "Javascript Notes/snippets/Array/Copying from an array.md",
-    "1.Introduction Week/1.Day One/Introduction lecture.md",
-    "1.Introduction Week/1.Day One/Command Line and Git tasks.md",
-    "Javascript Notes/snippets/String/Reverse a string.md",
-    "Javascript Notes/snippets/Array/Flatten an array by one level.md",
-    "Javascript Notes/snippets/Array/Check if array is ascending or descending.md",
     "Javascript Notes/snippets/String",
     "Javascript Notes/snippets/Functions",
     "Javascript Notes/snippets/Objects",
