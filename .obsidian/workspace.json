@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript Notes/snippets/Objects/running through object.md",
+                "file": "2.Weeks 2-4/Week 4/5.Day Five/Promises Seminar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript Notes/snippets/Objects/running through object.md",
+                "file": "2.Weeks 2-4/Week 4/5.Day Five/Promises Seminar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript Notes/snippets/Objects/running through object.md",
+                "file": "2.Weeks 2-4/Week 4/5.Day Five/Promises Seminar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript Notes/snippets/Objects/running through object.md"
+                "file": "2.Weeks 2-4/Week 4/5.Day Five/Promises Seminar.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "ee851a10162f8418",
   "lastOpenFiles": [
+    "2.Weeks 2-4/Week 4/5.Day Five/Promises.md",
+    "2.Weeks 2-4/Week 4/5.Day Five/Promises Seminar.md",
+    "Javascript Notes/snippets/Objects/iterating through an object.md",
     "2.Weeks 2-4/Week 4/4.Day Four/Morning Seminar.md",
-    "Javascript Notes/snippets/Objects/running through object.md",
     "2.Weeks 2-4/Week 4/4.Day Four/Morning Lecture.md",
     "2.Weeks 2-4/Week 4/1.Day One/REVIEW DAY.md",
     "2.Weeks 2-4/Week 4/2.Day Two/Afternoon seminar on async.md",
@@ -173,8 +175,6 @@
     "Javascript Notes/snippets/String/remove first element from string.md",
     "2.Weeks 2-4/Week 2/5.Day Five/Closure.md",
     "2.Weeks 2-4/Week 2/4.Day Four/Mock functions(extra).md",
-    "2.Weeks 2-4/Week 2/4.Day Four/Testing higher order functions.md",
-    "Javascript Notes/snippets/Math/Wrapping a value around if out of bounds.md",
     "Javascript Notes/snippets/String",
     "Javascript Notes/snippets/Functions",
     "Javascript Notes/snippets/Objects",
