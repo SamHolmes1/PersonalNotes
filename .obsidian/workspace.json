@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Weeks 2-4/Week 4/5.Day Five/Promises Seminar.md",
+                "file": "3.Weeks 5-7/week 5/2.Day Two/Afternoon Seminar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Weeks 2-4/Week 4/5.Day Five/Promises Seminar.md",
+                "file": "3.Weeks 5-7/week 5/2.Day Two/Afternoon Seminar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Weeks 2-4/Week 4/5.Day Five/Promises Seminar.md",
+                "file": "3.Weeks 5-7/week 5/2.Day Two/Afternoon Seminar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Weeks 2-4/Week 4/5.Day Five/Promises Seminar.md"
+                "file": "3.Weeks 5-7/week 5/2.Day Two/Afternoon Seminar.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "ee851a10162f8418",
   "lastOpenFiles": [
-    "2.Weeks 2-4/Week 4/5.Day Five/Promises.md",
+    "3.Weeks 5-7/week 5/2.Day Two/Express-101.md",
+    "3.Weeks 5-7/week 5/2.Day Two/Afternoon Seminar.md",
+    "3.Weeks 5-7/week 5/1.Day One/httpCreateServer lecture.md",
+    "3.Weeks 5-7/week 5/1.Day One/Afternoon seminar.md",
     "2.Weeks 2-4/Week 4/5.Day Five/Promises Seminar.md",
+    "2.Weeks 2-4/Week 4/5.Day Five/Promises.md",
     "Javascript Notes/snippets/Objects/iterating through an object.md",
     "2.Weeks 2-4/Week 4/4.Day Four/Morning Seminar.md",
     "2.Weeks 2-4/Week 4/4.Day Four/Morning Lecture.md",
@@ -171,10 +175,6 @@
     "2.Weeks 2-4/Week 3/2.Day Two/OOP seminar.md",
     "2.Weeks 2-4/Week 3/2.Day Two/OOP and Factory functions.md",
     "Javascript Notes/snippets/Objects/Shorthand for in.md",
-    "2.Weeks 2-4/Week 3/1.Day One/Recursion.md",
-    "Javascript Notes/snippets/String/remove first element from string.md",
-    "2.Weeks 2-4/Week 2/5.Day Five/Closure.md",
-    "2.Weeks 2-4/Week 2/4.Day Four/Mock functions(extra).md",
     "Javascript Notes/snippets/String",
     "Javascript Notes/snippets/Functions",
     "Javascript Notes/snippets/Objects",
