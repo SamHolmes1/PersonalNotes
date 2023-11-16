@@ -1,0 +1,3 @@
+- A custom protocol are protocols outside the norm(http, https, ftp)
+- There are many types of serialization, for this purpse I think binary would be best since we could be sending large ammounts of data at high speeds.
+- BSON could be the way to go, serialize JSON to binary and send it accross and then de-serialize on the other client. Would need a good algoithm to deserialize quickly
