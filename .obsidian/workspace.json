@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Weeks 5-7/week 6/3.Day Three/Middleware and Error handling.md",
+                "file": "3.Weeks 5-7/week 7/2.Day Two/Advanced error handling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Weeks 5-7/week 6/3.Day Three/Middleware and Error handling.md",
+                "file": "3.Weeks 5-7/week 7/2.Day Two/Advanced error handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Weeks 5-7/week 6/3.Day Three/Middleware and Error handling.md",
+                "file": "3.Weeks 5-7/week 7/2.Day Two/Advanced error handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Weeks 5-7/week 6/3.Day Three/Middleware and Error handling.md"
+                "file": "3.Weeks 5-7/week 7/2.Day Two/Advanced error handling.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "ee851a10162f8418",
   "lastOpenFiles": [
-    "3.Weeks 5-7/week 6/2.Day Two/Afternoon Seminar.md",
+    "3.Weeks 5-7/week 7/1.Day One/Project intro and Git branching.md",
+    "3.Weeks 5-7/week 7/2.Day Two/Advanced error handling.md",
+    "Javascript Notes/snippets/Objects/Check for property.md",
+    "3.Weeks 5-7/week 6/5.Day Five/Q&A seminar.md",
+    "3.Weeks 5-7/week 6/5.Day Five/Complex queries.md",
+    "3.Weeks 5-7/week 6/4.Day Four/Databases for Testing and development.md",
     "3.Weeks 5-7/week 6/3.Day Three/Middleware and Error handling.md",
+    "3.Weeks 5-7/week 6/2.Day Two/Afternoon Seminar.md",
     "3.Weeks 5-7/week 6/2.Day Two/Integration testing.md",
     "3.Weeks 5-7/week 5/2.Day Two/Express-101.md",
     "3.Weeks 5-7/week 5/2.Day Two/Afternoon Seminar.md",
@@ -169,12 +175,6 @@
     "2.Weeks 2-4/Week 4/4.Day Four/Morning Seminar.md",
     "2.Weeks 2-4/Week 4/4.Day Four/Morning Lecture.md",
     "2.Weeks 2-4/Week 4/1.Day One/REVIEW DAY.md",
-    "2.Weeks 2-4/Week 4/2.Day Two/Afternoon seminar on async.md",
-    "2.Weeks 2-4/Week 4/2.Day Two/Async.md",
-    "2.Weeks 2-4/Week 4/3.Day Three/Second async because i'm braindead.md",
-    "2.Weeks 2-4/Week 4/4.Day Four/How does the internet work self study.md",
-    "2.Weeks 2-4/Week 4/3.Day Three/Careers.md",
-    "Javascript Notes/snippets/For ... in vs For ... of.md",
     "Javascript Notes/snippets/Data Structures",
     "Javascript Notes/snippets/String",
     "Javascript Notes/snippets/Functions",
