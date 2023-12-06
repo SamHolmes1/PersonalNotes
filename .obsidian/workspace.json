@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Weeks 5-7/week 7/2.Day Two/Advanced error handling.md",
+                "file": "Secret-Files/CV-Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Weeks 5-7/week 7/2.Day Two/Advanced error handling.md",
+                "file": "Secret-Files/CV-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Weeks 5-7/week 7/2.Day Two/Advanced error handling.md",
+                "file": "Secret-Files/CV-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Weeks 5-7/week 7/2.Day Two/Advanced error handling.md"
+                "file": "Secret-Files/CV-Notes.md"
               }
             }
           }
@@ -146,35 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee851a10162f8418",
+  "active": "504d81db2c0cad50",
   "lastOpenFiles": [
-    "3.Weeks 5-7/week 7/1.Day One/Project intro and Git branching.md",
-    "3.Weeks 5-7/week 7/2.Day Two/Advanced error handling.md",
-    "Javascript Notes/snippets/Objects/Check for property.md",
-    "3.Weeks 5-7/week 6/5.Day Five/Q&A seminar.md",
-    "3.Weeks 5-7/week 6/5.Day Five/Complex queries.md",
-    "3.Weeks 5-7/week 6/4.Day Four/Databases for Testing and development.md",
-    "3.Weeks 5-7/week 6/3.Day Three/Middleware and Error handling.md",
-    "3.Weeks 5-7/week 6/2.Day Two/Afternoon Seminar.md",
-    "3.Weeks 5-7/week 6/2.Day Two/Integration testing.md",
-    "3.Weeks 5-7/week 5/2.Day Two/Express-101.md",
-    "3.Weeks 5-7/week 5/2.Day Two/Afternoon Seminar.md",
-    "3.Weeks 5-7/week 5/3.Day Three/MVC quick rundown.md",
-    "3.Weeks 5-7/week 5/3.Day Three/CV workshop.md",
-    "3.Weeks 5-7/week 5/4.Day Four/SQL.md",
-    "3.Weeks 5-7/week 5/5.Day Five/SQL Relationships.md",
-    "3.Weeks 5-7/week 6/1.Day One/Seeding with Node Postgres.md",
-    "3.Weeks 5-7/week 6/1.Day One/Node Postgres.md",
+    "Secret-Files",
     "Misc./Custom Protocol Research/Custom protocols 101.md",
+    "Secret-Files/CV-Notes.md",
+    "4.Weeks 8-10(Frontend)/week 9/1.Day One/useEffect and data-fetcihing.md",
+    "4.Weeks 8-10(Frontend)/week 9/3.Day Three/React routing.md",
+    "4.Weeks 8-10(Frontend)/week 8/5.Day Five/Controlled components.md",
+    "3.Weeks 5-7(Backend)/week 6/1.Day One/Seeding with Node Postgres.md",
+    "3.Weeks 5-7(Backend)/week 6/1.Day One/Node Postgres.md",
+    "4.Weeks 8-10(Frontend)/week 8/4.Day Four/React State.md",
+    "4.Weeks 8-10(Frontend)/week 8/4.Day Four/Planning React Apps.md",
+    "4.Weeks 8-10(Frontend)/week 8/3.Day Three/Intro to React.md",
+    "3.Weeks 5-7(Backend)/week 5/2.Day Two/Express-101.md",
+    "3.Weeks 5-7(Backend)/week 5/2.Day Two/Afternoon Seminar.md",
+    "3.Weeks 5-7(Backend)/week 5/1.Day One/httpCreateServer lecture.md",
+    "3.Weeks 5-7(Backend)/week 5/1.Day One/Afternoon seminar.md",
+    "4.Weeks 8-10(Frontend)/week 8/1.Day One/Intro to front-end.md",
+    "4.Weeks 8-10(Frontend)/week 8/1.Day One/DOM exploration and data persistence.md",
+    "4.Weeks 8-10(Frontend)/week 8/1.Day One/DOM 101.md",
+    "4.Weeks 8-10(Frontend)/week 8/2.Day Two/DOM 102 - Form validation.md",
+    "4.Weeks 8-10(Frontend)/week 8/2.Day Two/Enhancing User Experience through Feedback and Events.md",
+    "1.Introduction Week/5.Day Five/Intro to CSS.md",
+    "1.Introduction Week/5.Day Five/Intro to HTML.md",
+    "Javascript Notes/snippets/Math/Wrapping a value around if out of bounds.md",
+    "3.Weeks 5-7(Backend)/week 7(Project Week)/2.Day Two/Advanced error handling.md",
+    "3.Weeks 5-7(Backend)/week 7(Project Week)/1.Day One/Project intro and Git branching.md",
+    "Javascript Notes/snippets/Objects/Check for property.md",
     "Misc./Custom Protocol Research",
-    "3.Weeks 5-7/week 5/1.Day One/httpCreateServer lecture.md",
-    "3.Weeks 5-7/week 5/1.Day One/Afternoon seminar.md",
-    "2.Weeks 2-4/Week 4/5.Day Five/Promises Seminar.md",
-    "2.Weeks 2-4/Week 4/5.Day Five/Promises.md",
-    "Javascript Notes/snippets/Objects/iterating through an object.md",
-    "2.Weeks 2-4/Week 4/4.Day Four/Morning Seminar.md",
-    "2.Weeks 2-4/Week 4/4.Day Four/Morning Lecture.md",
-    "2.Weeks 2-4/Week 4/1.Day One/REVIEW DAY.md",
     "Javascript Notes/snippets/Data Structures",
     "Javascript Notes/snippets/String",
     "Javascript Notes/snippets/Functions",
