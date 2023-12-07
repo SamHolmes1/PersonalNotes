@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret-Files/CV-Notes.md",
+                "file": "4.Weeks 8-10(Frontend)/week 9/4.Day Four/React context API.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret-Files/CV-Notes.md",
+                "file": "4.Weeks 8-10(Frontend)/week 9/4.Day Four/React context API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret-Files/CV-Notes.md",
+                "file": "4.Weeks 8-10(Frontend)/week 9/4.Day Four/React context API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secret-Files/CV-Notes.md"
+                "file": "4.Weeks 8-10(Frontend)/week 9/4.Day Four/React context API.md"
               }
             }
           }
@@ -146,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "504d81db2c0cad50",
+  "active": "ee851a10162f8418",
   "lastOpenFiles": [
+    "4.Weeks 8-10(Frontend)/week 9/3.Day Three/React routing.md",
+    "4.Weeks 8-10(Frontend)/week 9/4.Day Four/React context API.md",
+    "Secret-Files/CV-Notes.md",
     "Secret-Files",
     "Misc./Custom Protocol Research/Custom protocols 101.md",
-    "Secret-Files/CV-Notes.md",
     "4.Weeks 8-10(Frontend)/week 9/1.Day One/useEffect and data-fetcihing.md",
-    "4.Weeks 8-10(Frontend)/week 9/3.Day Three/React routing.md",
     "4.Weeks 8-10(Frontend)/week 8/5.Day Five/Controlled components.md",
     "3.Weeks 5-7(Backend)/week 6/1.Day One/Seeding with Node Postgres.md",
     "3.Weeks 5-7(Backend)/week 6/1.Day One/Node Postgres.md",

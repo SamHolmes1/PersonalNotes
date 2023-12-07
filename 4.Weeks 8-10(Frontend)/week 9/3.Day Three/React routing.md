@@ -21,3 +21,47 @@
 - Provdes a way to map different URLs to different components
 - Enables the creation of multt-page=like experiences within a single-page application
 - Allows us to define routers and associate them with specific components
+
+TIP: use CSS to create borders around components to help you see what's going on and what's being rendered 
+
+
+```jsx
+//App.jsx
+
+import { BrowserRouter, Route, Routes } from "react"
+
+
+return App() {
+
+	return(
+		<BrowserRouter> 
+			<div className="app">
+				<Header /> {/* Rendered in all views */}
+				<Routes> 
+					<Route path="/" element={<Home />} />
+					<Route path="/:colour" element={<Colour />} />
+				</Routes>
+			</div>
+		</BrowserRouter>
+	)
+
+}
+```
+
+
+```jsx
+//Colour.jsx
+import  useParams form 'react-router-dom'
+
+const { colour } = useParams();
+
+const Colour = () => {
+	return(
+		<div className="content blue">
+			<p>{colour}</p>
+		</div>
+	)
+
+}
+
+```
